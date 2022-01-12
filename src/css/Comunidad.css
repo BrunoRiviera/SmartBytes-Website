@@ -1,0 +1,27 @@
+
+.comunidad-img{
+    border-radius: 48px;
+}
+.news{
+    border-radius: 50px;
+    margin:0px;
+    }
+    .news-text{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    }
+    .news-info{
+        margin-top:40px;
+        font-size:20px
+    }
+    .news-img{
+        border-radius: 45px;
+}
+
+.margin-t-100{
+    margin-top:100px
+}
+.margin-t-50{
+    margin-top:50px
+}

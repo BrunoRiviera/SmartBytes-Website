@@ -1,0 +1,48 @@
+.title-products{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.product-list{
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+.product-icon{
+    width:17rem;
+    border-radius:21px;
+}
+
+.product-img{
+    max-height: 250px;
+    border-radius: 20px;
+    }
+    .product-img-other{
+        border-radius: 30px;
+    }
+    .product-img2{
+        max-height: 250px;
+        border-radius: 30px;
+}
+
+.card{
+    justify-content: center;
+    max-width: 280px;
+    width: 16rem;
+    background-color: #141423 !important;
+}
+
+
+.center-cc{
+    display: flex;
+    justify-content: center;
+}
+
+.back-prp{
+    background-color: #141423 ;
+}
+
+.card-price{
+    font-size: calc(1.200rem);
+}
+.card-model, h5{
+    font-size: calc(1.200rem);
+}

@@ -1,0 +1,42 @@
+
+.title{
+    font-size:4rem;
+    margin-top:60px
+    }
+    .title-2{
+
+    }
+.center-cc{
+    display: flex;
+    justify-content: center;
+}
+
+.home-card{
+    width: 19rem;
+    background-color: #141423 !important;
+    min-height: 540px;
+    margin-bottom:150px;
+    }
+    .product-img{
+        max-height: 250px;
+        border-radius: 20px;
+    }    
+    .back-prp{
+        background-color: #141423 ;
+}
+
+.home-img{
+    border-radius: 27px;
+    }
+    .reciver-img{
+        max-width: 1200px;
+        margin: 0;
+    }
+
+
+.imgset-1{
+    border-radius: 22px;
+}
+    .imgset-2{
+    border-radius: 30px;
+}

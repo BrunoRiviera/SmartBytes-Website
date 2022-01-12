@@ -1,0 +1,44 @@
+*{
+    background-color: #202036;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rokkitt', serif;
+}
+
+.color-white{
+    color: white;
+    }
+    .color-pink{
+        color: #FE01AA
+    }
+    .color-blue{
+        color: #51B3D8;
+}
+.title{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.link{
+    color:white;
+    padding-right: 70px;
+}
+.link:hover{
+    text-decoration: none;
+    color: red;
+}
+.content-left{
+    display:flex;
+    justify-content: flex-start;
+}
+.margin-t-100{
+    margin-top:100px
+}
+.margin-t-25{
+    margin-top:25px
+}
+.margin-b-50{
+    margin-bottom: 50px;
+}
+.center-cc{
+    display: flex;
+    justify-content: center;
+}
