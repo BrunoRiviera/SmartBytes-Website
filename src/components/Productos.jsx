@@ -17,7 +17,7 @@ function Productos () {
                   <img src={require('../img/products/monitores/monitor1.jpg')} className="product-img back-prp" alt="monitor1">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
+                     <h5 className="card-price color-blue back-prp"> $19.890</h5>
                      <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
                   </div>
                </div>
@@ -27,8 +27,8 @@ function Productos () {
                   <img src={require('../img/products/monitores/monitor2.jpg')} className="product-img2 back-prp" alt="monitor2">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $20.520</h5>
+                     <h5 className="card-model color-white back-prp"> Monitor LG 24MP60G-AWM</h5>
                   </div>
                </div>
             </div>
@@ -37,8 +37,8 @@ function Productos () {
                   <img src={require('../img/products/monitores/monitor3.jpg')} className="product-img back-prp" alt="monitor3">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $23.580</h5>
+                     <h5 className="card-model color-white back-prp"> Monitor GAMING RES</h5>
                   </div>
                </div>
             </div>
@@ -55,8 +55,8 @@ function Productos () {
                   <img src={require('../img/products/teclados/teclado1.jpg')} className="product-img back-prp" alt="teclado1">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $3.690</h5>
+                     <h5 className="card-model color-white back-prp"> Teclado TRUST ZIVA MEDIA</h5>
                   </div>
                </div>
             </div>
@@ -65,8 +65,8 @@ function Productos () {
                   <img src={require('../img/products/teclados/teclado2.jpg')} className="product-img back-prp" alt="tecldo2">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $5.899</h5>
+                     <h5 className="card-model color-white back-prp"> Teclado GENIUS SCORPION</h5>
                   </div>
                </div>
             </div>
@@ -75,8 +75,8 @@ function Productos () {
                   <img src={require('../img/products/teclados/teclado3.jpg')} className="product-img back-prp" alt="teclado3">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $4.068</h5>
+                     <h5 className="card-model color-white back-prp"> Teclado ACER OKB950</h5>
                   </div>
                </div>
             </div>
@@ -93,8 +93,9 @@ function Productos () {
                   <img src={require('../img/products/mouses/mouse1.jpg')} className="product-img back-prp" alt="mosue 1231">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $2.400</h5>
+                     <h5 className="card-model color-white back-prp"> Mouse Gamer Q50 X GLIDE
+</h5>
                   </div>
                </div>
             </div>
@@ -103,8 +104,8 @@ function Productos () {
                   <img src={require('../img/products/mouses/mouse2.jpg')} className="product-img back-prp" alt="mouse2 321">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $2.064</h5>
+                     <h5 className="card-model color-white back-prp"> Mouse Gamer P30 PRO</h5>
                   </div>
                </div>
             </div>
@@ -113,8 +114,8 @@ function Productos () {
                   <img src={require('../img/products/mouses/mouse3.jpg')} className="product-img back-prp" alt="mouse3 3123">
                   </img>
                   <div className="card-body back-prp">
-                     <h5 className="card-price color-blue back-prp"> 19.890</h5>
-                     <h5 className="card-model color-white back-prp"> Monitor ASUS VG32VQ1B</h5>
+                     <h5 className="card-price color-blue back-prp"> $3.500</h5>
+                     <h5 className="card-model color-white back-prp"> Mouse Gamer J90S</h5>
                   </div>
                </div>
             </div>            
